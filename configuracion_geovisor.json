@@ -13,7 +13,7 @@
   // Es muy útil para despliegue estático (como GitHub Pages) donde no se pueden escanear carpetas dinámicamente:
   "capas_a_cargar": [
     "Areas_Protegidas_corte.json"
-     "Panama_AP_2025_.json",
+     "Panama_AP_2025_.geojson",
     "Limite_ZonaEstudio.json"
   ]
 }
