@@ -6,7 +6,7 @@
   "mapa_base_defecto": "dark",
   // "mapa_base_defecto": "light",
   // "mapa_base_defecto": "google_streets",
-  // "mapa_base_defecto": "google_satellite",
+  "mapa_base_defecto": "google_satellite",
   // "mapa_base_defecto": "google_hybrid",
 
   // Lista de archivos GeoJSON/JSON en la carpeta data/ que se cargarán automáticamente.
